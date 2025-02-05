@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou a Gabriela Rodrigues 👋</h1>
 
-<!--
-**GabrielaRodrigues01/GabrielaRodrigues01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedora Fullstack | Foco em C#, JavaScript, .NET e Arquitetura MVC.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+💻 Desenvolvedora Full Stack com experiência em C#, .NET, ASP.NET MVC, SQL Server, JavaScript, TypeScript e Node.js.  
+📌 Apaixonada por tecnologia, desenvolvimento web e inovação.  
+💡 Compartilho meus conhecimentos no [Medium](https://medium.com/@gabriela.rodrigues16).  
+📩 Contato: [LinkedIn](https://www.linkedin.com/in/gabriela-rodrigues-7128b819b/)  
+
+---
+
+### 🛠️ Tecnologias e Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,dotnet,aspnet,mvc,sql,js,ts,nodejs,react,git" alt="Minhas habilidades" /></div>
